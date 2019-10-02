@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/Pluto-tv/export-parameters-vault/pkg/config"
-    "github.com/Pluto-tv/export-parameters-vault/pkg/ssm"
+    "github.com/dantheman213/export-parameters-vault/pkg/config"
+    "github.com/dantheman213/export-parameters-vault/pkg/ssm"
 )
 
 func main() {

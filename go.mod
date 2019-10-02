@@ -1,4 +1,4 @@
-module github.com/Pluto-tv/export-parameters-vault
+module github.com/dantheman213/export-parameters-vault
 
 go 1.12
 
