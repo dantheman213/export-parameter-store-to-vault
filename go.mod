@@ -1,4 +1,4 @@
-module github.com/dantheman213/export-parameters-vault
+module github.com/dantheman213/export-parameter-store-to-vault
 
 go 1.12
 
