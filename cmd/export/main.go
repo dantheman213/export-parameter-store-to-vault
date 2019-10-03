@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/dantheman213/export-parameters-vault/pkg/config"
-    "github.com/dantheman213/export-parameters-vault/pkg/ssm"
+    "github.com/dantheman213/export-parameter-store-to-vault/pkg/config"
+    "github.com/dantheman213/export-parameter-store-to-vault/pkg/ssm"
 )
 
 func main() {
